@@ -1,7 +1,35 @@
 .fizz-buzz{
-    width: 100px;
     height: 100px;
-    background-color: blue;
+    background-color: sandybrown;
     text-align: center;
     line-height: 100px;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.fizz{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(27, 94, 27);
+    text-align: center;
+    line-height: 100px;
+    border: 1px solid white;
+    box-sizing: border-box;
+}
+.buzz{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    text-align: center;
+    line-height: 100px;
+    border: 1px solid blue;
+    box-sizing: border-box;
+}
+.norm{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    text-align: center;
+    line-height: 100px;
+    border: 1px solid purple;
+    box-sizing: border-box;
 }
